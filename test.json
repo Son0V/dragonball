@@ -6,7 +6,7 @@
     "level": 62,
     "isActive": true,
     "birthDate": "2018-06-12",
-    "imageUrl": "https://example.com/karash.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/dragonball/refs/heads/main/bdo.webp",
     "class": "Berserker",
     "skills": ["Smack Down", "Titan Blow", "Frenzied Destroyer"],
     "gear": {
