@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Karash",
+    "description": "A fierce Berserker known for his unmatched strength in battle.",
+    "level": 62,
+    "isActive": true,
+    "birthDate": "2018-06-12",
+    "imageUrl": "https://example.com/karash.jpg",
+    "class": "Berserker",
+    "skills": ["Smack Down", "Titan Blow", "Frenzied Destroyer"],
+    "gear": {
+      "id": 101,
+      "weapon": "Dandelion Iron Buster",
+      "armor": "Blackstar Armor",
+      "accessories": ["Tungrad Belt", "Ogre Ring"],
+      "enhancementLevel": 20,
+      "imageUrl": "https://example.com/berserker_gear.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Selene",
+    "description": "A skilled Sorceress who controls the darkness.",
+    "level": 61,
+    "isActive": false,
+    "birthDate": "2019-03-21",
+    "imageUrl": "https://example.com/selene.jpg",
+    "class": "Sorceress",
+    "skills": ["Dark Flame", "Crow Flare", "Grim Reaper’s Judgment"],
+    "gear": {
+      "id": 102,
+      "weapon": "Blackstar Amulet",
+      "armor": "Dim Tree Spirit Armor",
+      "accessories": ["Tungrad Earring", "Vell’s Heart"],
+      "enhancementLevel": 18,
+      "imageUrl": "https://example.com/sorceress_gear.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ryujin",
+    "description": "A fast and agile Ninja specialized in assassination.",
+    "level": 60,
+    "isActive": true,
+    "birthDate": "2020-01-15",
+    "imageUrl": "https://example.com/ryujin.jpg",
+    "class": "Ninja",
+    "skills": ["Shuriken Flight", "Murderous Intent", "Shadow Stomp"],
+    "gear": {
+      "id": 103,
+      "weapon": "Turo's Nouver Shuriken",
+      "armor": "Blackstar Armor",
+      "accessories": ["Black Distortion Earring", "Tungrad Necklace"],
+      "enhancementLevel": 19,
+      "imageUrl": "https://example.com/ninja_gear.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Elowen",
+    "description": "A wise Ranger who dominates the battlefield with her bow.",
+    "level": 63,
+    "isActive": true,
+    "birthDate": "2017-12-05",
+    "imageUrl": "https://example.com/elowen.jpg",
+    "class": "Ranger",
+    "skills": ["Penetrating Wind", "Waltz of Wind", "Ultimate Charging Wind"],
+    "gear": {
+      "id": 104,
+      "weapon": "Dandelion Kamasylven Sword",
+      "armor": "Dim Tree Spirit Armor",
+      "accessories": ["Ogre Ring", "Tungrad Ring"],
+      "enhancementLevel": 21,
+      "imageUrl": "https://example.com/ranger_gear.jpg"
+    }
+  }
+]
